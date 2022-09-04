@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jens @dr-fischer-crypto
+- 👋 Hi, I’m @dr-fischer-crypto
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development.
